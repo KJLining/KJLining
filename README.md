@@ -1,6 +1,6 @@
+![A student, gamer, and a future aviatrix!](https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.6435-9/131987699_1222458984815337_7099440989588655333_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=TeIRojfBmWsAX8cWVXH&_nc_ht=scontent.fmnl9-1.fna&oh=08ee2cfce1ed9f4220ef8f68c862c409&oe=6123C93D)
 ### Hi there 👋, Hi there, my name is Khristine Joyce.
 #### A student, gamer, and a future aviatrix!
-![A student, gamer, and a future aviatrix!](https://scontent.fmnl9-2.fna.fbcdn.net/v/t1.6435-9/s960x960/209783937_108433154842329_4719378192727786768_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=e3f864&_nc_ohc=yB6TJTOpoSsAX_7mJCV&_nc_ht=scontent.fmnl9-2.fna&oh=86ebf1dce3d79a4397a7c3cbf28f617f&oe=6125C7F1)
 
 So currently I am an SHS student based in Philippines and I'm currently studying Tec. Voc. ICT. I created this GitHub profile with the purpose of sharing some of my projects to serve as ideas and inspiration to my fellow students out there! 
 
