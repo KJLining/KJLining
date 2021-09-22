@@ -1,11 +1,11 @@
 
 ### Hi there 👋, Hi there, my name is Khristine Joyce.
-#### A student, gamer, and a future aviatrix!
+#### A student programmer👩‍💻, gamer👾, and an aviation enthusiast 🛫
 
 So currently I am an SHS student based in Philippines and I'm currently studying Tec. Voc. ICT. I created this GitHub profile with the purpose of sharing some of my projects to serve as ideas and inspiration to my fellow students out there! 
 
 
-Skills: Java/HTML/CSS/Python
+Skills: Java/HTML/CSS/JS/Python/C#
 
 - 🔭 I’m currently working on some of my personal projects and this page. 
 - 🌱 I’m currently learning Python, PHP, everything really 😂 
